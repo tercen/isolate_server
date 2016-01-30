@@ -15,7 +15,6 @@ main() {
     ]));
     response.stream.listen((data) {
       print("recieved $data");
-      print(bytes);
     });
   });
 }

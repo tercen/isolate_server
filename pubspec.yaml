@@ -3,6 +3,8 @@ description: Implements isolate stream,server,client, ... shelf isolate, webwork
 dependencies:
   browser: any
   http_client:
-    path: ../http_client
+    git:
+      url: git://github.com/tercen/http_client.git
+      ref: "1.0"
   logging: any
   shelf: any
