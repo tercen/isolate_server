@@ -1,8 +1,3 @@
-
-# Package http_client is required 
-
-see https://github.com/tercen/http_client
-
 # Main isolate : HttpIsolateClient
 
 ``` dart
