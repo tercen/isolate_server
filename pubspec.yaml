@@ -1,0 +1,8 @@
+name: isolate_server
+description: Implements isolate stream,server,client, ... shelf isolate, webworker
+dependencies:
+  browser: any
+  http_client:
+    path: ../http_client
+  logging: any
+  shelf: any
